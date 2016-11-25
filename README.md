@@ -1,4 +1,8 @@
 
+#About
+
+Fake coffee site build with Drupal 7 as part of self study following Epicodus curriculum. Pair programmed with LawlietBlack
+
 # Instructions:
 
 1. Download Drupal version 7.51
