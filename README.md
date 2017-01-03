@@ -28,3 +28,9 @@ Fake coffee site build with Drupal 7 as part of self study following Epicodus cu
   c. Use the same username and password from before. (If we have forgotten what that was, we can always find that information in settings.php, or in the PDO Exception error message we saw displayed in the browser.)
 
   d. After importing the database, if you have any trouble logging in with your Site Maintenance account, clear your browser's cookies by clearing the browser history.
+
+# What I Learned from this Project
+
+   1. Learned about basic drupal 7 pratices
+   
+   2. Learned how to use contributed themes and modules
